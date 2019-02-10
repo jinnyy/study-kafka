@@ -1,5 +1,5 @@
 # study-kafka
-study kafka with Python
+learn kafka with Python
 
 <br><br>
 
