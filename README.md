@@ -6,7 +6,7 @@ learn kafka with Python
 ## Requirements
 
 - Python 3.5.*
-- Kafka 2.11
+- Kafka 1.1.0
 - OSX
 
 <br>
