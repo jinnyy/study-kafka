@@ -3,7 +3,7 @@ learn kafka with Python
 
 <br><br>
 
-## Requirements
+## Environments
 
 - Python 3.5.*
 - Kafka 1.1.0
