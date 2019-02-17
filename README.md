@@ -7,7 +7,7 @@ learn kafka with Python
 
 - Python 3.5.*
 - Kafka 1.1.0
-- OSX
+- Mac OSX
 
 <br>
 
